@@ -1,6 +1,5 @@
 Here is the complete `README.md` file formatted in Markdown that you can copy and paste:
 
-```markdown
 # Sentiment Analysis Using Transformer and LSTM Models
 
 This project performs sentiment analysis on tweets using both Transformer-based and LSTM-based models. The models are hosted in an AWS S3 bucket and dynamically loaded into the application during runtime. The project is implemented using Python, Flask, and AWS services.
